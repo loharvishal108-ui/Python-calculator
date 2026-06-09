@@ -7,7 +7,7 @@ My first Python calculator project built while learning Python.
 - Multiplication
 - Division
 
-## Tecnologies
+## Technologies
 - Python
 
  
