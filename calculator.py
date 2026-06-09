@@ -16,4 +16,6 @@ elif choose_number == 4:                    # division
         print("Result :" , num1/num2)
     else:
         print("cannot divide by 0")
+else:
+    print("Invalid choice")
 
